@@ -24,14 +24,11 @@ Whether you're an amateur or a professional photographer, PicWiz is the perfect 
 
 ## iPhone Screenshots
 
+![Crepe](https://i.ibb.co/ygH0Zw9/1.png)
 
+![Crepe](https://i.ibb.co/H7m15XG/2.png)
 
-
-![Crepe](https://ibb.co/CVRBYkc)
-
-![Crepe](https://ibb.co/wyD35Yp)
-
-![Crepe](https://ibb.co/wY3d1FS)
+![Crepe](https://i.ibb.co/Trpw5x4/3.png)
 
 ## Download
 
