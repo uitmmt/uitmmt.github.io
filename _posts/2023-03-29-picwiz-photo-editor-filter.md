@@ -32,7 +32,7 @@ Whether you're an amateur or a professional photographer, PicWiz is the perfect 
 
 ## Download
 
-[Download Ghi Điểm Pro Here!](https://apps.apple.com/us/app/picwiz-photo-editor-filter/id6446858789)
+[Download PicWiz Here!](https://apps.apple.com/us/app/picwiz-photo-editor-filter/id6446858789)
 
 ## Support
 
