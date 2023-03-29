@@ -38,6 +38,11 @@ comments: true
 
 ![Crepe](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2b/95/62/2b9562b5-2647-3c9e-66dd-5f878975abe6/88c00c7a-25e2-412c-b36c-e7696210e742_4.png/460x0w.webp)
 
+
+## Download
+
+[Download Ghi Điểm Pro Here!](https://apps.apple.com/app/id1670042952)
+
 ## Support
 
 ngocthinh.uit@gmail.com
