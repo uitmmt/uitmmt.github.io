@@ -1,17 +1,39 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+title: Stamp Plus
+subtitle: Stamp your photo
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [stamp]
+comments: true
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+## Information
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Our application is a professional image editing tool that allows users to stamp logos, dates and signatures on images. With our app you can create professional, highly authentic and outstanding images suitable for photographers, social media professionals, bloggers or those who want to share. Share images with greater trust.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+The app's image stamp functionality makes it easy for users to add their logos to images, date them to remember important moments, and add signatures to affirm the image's identity. Besides, with other image editing features such as cropping, color correction and applying effects, you can create professional, unique and creative photos.
+
+
+Download our app now to experience these amazing features and create memorable photos!
+
+
+## iPhone Screenshots
+
+
+![Crepe](https://is3-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ba/31/a9/ba31a9d9-edf8-f74a-b2df-9ac48bace85e/308a9fed-a5b1-4b92-a86a-c80d7d93c5c4_1.png/460x0w.webp)
+
+![Crepe](https://is2-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8b/53/60/8b5360ce-3cfc-9ac5-bc3a-79c637d5438b/41d330d1-99d8-41ec-9348-75ead40d90e5_2.png/460x0w.webp)
+
+![Crepe](https://is5-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/bf/94/f0bf949d-e515-9268-ac32-5d01b78f42c3/f7090316-4911-462b-8706-d4b7cd880214_3.png/460x0w.webp)
+
+![Crepe](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e2/6f/94/e26f9454-7350-0a61-8b53-48c84976c5f8/35b4be3c-48fb-4b78-8180-0adbefd2f752_4.png/460x0w.webp)
+
+## Download
+
+[Download Stamp Plus Here!](https://apps.apple.com/us/app/stamp-plus/id6445922003?platform=iphone)
+
+## Support
+
+ngocthinh.uit@gmail.com
