@@ -25,11 +25,13 @@ Whether you're an amateur or a professional photographer, PicWiz is the perfect 
 ## iPhone Screenshots
 
 
-![Crepe](gs://tu-tien-91951.appspot.com/Luutam/1.png)
 
-![Crepe](gs://tu-tien-91951.appspot.com/Luutam/2.png)
 
-![Crepe](gs://tu-tien-91951.appspot.com/Luutam/3.png)
+![Crepe](https://ibb.co/CVRBYkc)
+
+![Crepe](https://ibb.co/wyD35Yp)
+
+![Crepe](https://ibb.co/wY3d1FS)
 
 ## Download
 
